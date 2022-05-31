@@ -2,11 +2,6 @@
 
 #### Tugas Besar Mata Kuliah IOT Energy
 
-<!-- GIF -->
-<div align="center">
-  <img widht="300px" height="500px" src="https://drive.google.com/file/d/1FHVxD8jYcnP6fwwsUKxwE5SU8PGoTtob/view"/>
-</div>
-
 ## Hasil Purwarupa
 
 <div align="center">
