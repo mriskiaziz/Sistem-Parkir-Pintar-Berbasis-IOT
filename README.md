@@ -1,6 +1,6 @@
 # Sistem Parkir Pintar Berbasis IOT
 
-#### Tubes Mata Kuliah IOT Enery (Prodi Teknik Sitem Energi)
+### Tubes Mata Kuliah IOT Enery (Prodi Teknik Sitem Energi)
 
 ## Hasil Purwarupa
 
@@ -18,7 +18,7 @@
 ## Download Source Code
 
 ```
-$ git clone https://github.com/mriskiaziz/Aplikasi-Kontak-React-Native.git
+$ git clone https://github.com/mriskiaziz/Sistem-Parkir-Pintar-Berbasis-IOT.git
 ```
 
 ## Alat dan Bahan
